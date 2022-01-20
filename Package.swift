@@ -15,7 +15,7 @@ let package = Package(
             targets: ["DelayOutputPublisher"]),
     ],
     dependencies: [
-        .package(name: "VirtualTimeScheduler", path: "../VirtualTimeScheduler")
+        .package(name: "VirtualTimeScheduler", url: "https://github.com/berikv/VirtualTimeScheduler", from: "1.0.0")
     ],
     targets: [
         .target(

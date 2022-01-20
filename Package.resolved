@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "VirtualTimeScheduler",
+        "repositoryURL": "https://github.com/berikv/VirtualTimeScheduler",
+        "state": {
+          "branch": null,
+          "revision": "1400092c58cfbcbae909bb4d3542332ff6e19b56",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
