@@ -94,7 +94,7 @@ let package = Package(
     name: " ... ",
     products: [ ... ],
     dependencies: [
-        .package(url: "https://github.com/berikv/DelayOutputPublisher.git", from: "0.0.0") // here
+        .package(url: "https://github.com/berikv/DelayOutputPublisher.git", from: "1.0.0") // here
     ],
     targets: [
         .target(
