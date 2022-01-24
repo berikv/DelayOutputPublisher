@@ -87,7 +87,7 @@ struct MyView: View {
 
 ### Package.swift
 
-Edit the Package.swift file. Add the GamCenterUI as a dependency:
+Edit the Package.swift file. Add the DelayOutputPublisher as a dependency:
  
 ```
 let package = Package(
